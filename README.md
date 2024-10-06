@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="(https://github-readme-stats.vercel.app/api?username=ahmad-commits&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
-  </a>
-</p>
+## Hi there 👋
+
+
+![ahmad-commits's Stats](https://github-readme-stats.vercel.app/api?username=ahmad-commits&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
 <p align="center">
   <a href="https://skillicons.dev">
