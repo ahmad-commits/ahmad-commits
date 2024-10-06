@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-
-[![My Skills](https://skillicons.dev/icons?i=py,r,rust,mysql,sqlite,git,selenium,notion,neovim,debian,bash&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,rust,mysql,sqlite,git,selenium,notion,neovim,debian,bash&theme=dark" />
+  </a>
+</p>
 
 <!--
 **ahmad-commits/ahmad-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
